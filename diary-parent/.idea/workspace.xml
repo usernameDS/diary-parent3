@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c12488af-99d1-4b1c-8d38-7a4cf93d2138" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gDOHlaLZNmrmBrs4P13TikGbGG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manager-diary/src/main/resources/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.12178877" />
+    <property name="project.structure.side.proportion" value="0.24721603" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea_workspaces2\diary-parent\diary-parent\manager-diary\src\main\resources\static" />
+      <recent name="E:\idea_workspaces2\diary-parent\diary-parent\manager-diary\src\main\resources\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea_workspaces2\diary-parent\diary-parent\manager-diary\src\main\resources\static" />
+      <recent name="E:\idea_workspaces2\diary-parent\diary-parent\diary-web\src\main\resources\templates" />
+      <recent name="E:\idea_workspaces2\diary-parent\diary-parent\diary-manager\src\main\resources\static" />
+      <recent name="E:\idea_workspaces2\diary-parent\diary-parent\diary-database-provider\src\main\resources" />
+      <recent name="E:\idea_workspaces2\diary-parent\diary-parent\diary-eureka\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManagerDiaryApplication">
+    <configuration name="DiaryManagerApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="diary-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kmu.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kmu.manager" />
+      <option name="MAIN_CLASS_NAME" value="com.kmu.manager.DiaryManagerApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenertorTest.testGenerator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kmu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kmu" />
+      <option name="MAIN_CLASS_NAME" value="com.kmu.GenertorTest" />
+      <option name="METHOD_NAME" value="testGenerator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1 DiaryEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diary-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmu.diaryeureka.DiaryEurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2 DiaryRedisProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diary-redis-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmu.redisprovider.DiaryRedisProviderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="3 DiaryDatabaseProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diary-database-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmu.databaseprovider.DiaryDatabaseProviderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="4 DiaryPhotoManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diary-photo-manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmu.hotomanager.DiaryPhotoManagerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5 DiaryMemberManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diary-member-manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmu.membermanager.DiaryMemberManagerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="6 DiaryWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="diary-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmu.web.DiaryWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerDiaryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manager-diary" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmu.manager.ManagerDiaryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DiaryManagerApplicationTests.test1" />
+      <item itemvalue="JUnit.GenertorTest.testGenerator" />
+      <item itemvalue="Spring Boot.3 DiaryDatabaseProviderApplication" />
+      <item itemvalue="Spring Boot.1 DiaryEurekaApplication" />
+      <item itemvalue="Spring Boot.5 DiaryMemberManagerApplication" />
+      <item itemvalue="Spring Boot.4 DiaryPhotoManagerApplication" />
+      <item itemvalue="Spring Boot.2 DiaryRedisProviderApplication" />
+      <item itemvalue="Spring Boot.6 DiaryWebApplication" />
+      <item itemvalue="Spring Boot.ManagerDiaryApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GenertorTest.testGenerator" />
+        <item itemvalue="JUnit.DiaryManagerApplicationTests.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c12488af-99d1-4b1c-8d38-7a4cf93d2138" name="Default Changelist" comment="" />
+      <created>1597645610875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597645610875</updated>
+      <workItem from="1597645614570" duration="4941000" />
+      <workItem from="1597650603614" duration="4880000" />
+      <workItem from="1597656114566" duration="656000" />
+      <workItem from="1597656798019" duration="2071000" />
+      <workItem from="1597661273702" duration="13147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1597650891154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1597650891154" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597663618512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1597663618512" />
+    <state x="487" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597667648294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1597667648294" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1597652761513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1597652761513" />
+    <state x="547" y="153" key="FileChooserDialogImpl" timestamp="1597650855974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597650855974" />
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom" timestamp="1597675772212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597675772212" />
+    <state width="1493" height="200" key="GridCell.Tab.0.center" timestamp="1597675772211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597675772211" />
+    <state width="1493" height="200" key="GridCell.Tab.0.left" timestamp="1597675772211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597675772211" />
+    <state width="1493" height="200" key="GridCell.Tab.0.right" timestamp="1597675772211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597675772211" />
+    <state width="1493" height="200" key="GridCell.Tab.1.bottom" timestamp="1597675312132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597675312132" />
+    <state width="1493" height="200" key="GridCell.Tab.1.center" timestamp="1597675312132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597675312132" />
+    <state width="1493" height="200" key="GridCell.Tab.1.left" timestamp="1597675312132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597675312132" />
+    <state width="1493" height="200" key="GridCell.Tab.1.right" timestamp="1597675312132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597675312132" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1597648859568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597648859568" />
+    <state x="178" y="72" key="new project wizard" timestamp="1597658377084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1597658377084" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597664962496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1597664962496" />
+  </component>
+</project>

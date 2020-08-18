@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/crowd_vip?useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: root
+  application:
+    name: database-provider
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    prefer-ip-address: true
+server:
+  port: 6001

@@ -1,0 +1,45 @@
+server:
+  port: 80
+
+
+date:
+  format: "yyyy-MM-dd hh:mm:ss"
+oss:
+  headpic: "https://kmu-headpic.oss-cn-chengdu.aliyuncs.com/"
+spring:
+  application:
+    name: crowd_web
+  # redis配置
+  redis:
+    host: localhost
+    jedis:
+      pool:
+        max-idle: 100
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    prefer-ip-address: true
+
+aliPay:
+  serverUrl: "https://openapi.alipaydev.com/gateway.do"
+  appId: "2021000116664769"
+  appPrivateKey: "MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQqSu6VzS+tLdphRaD2jg57nsHsFvGDIEzVqGjA27Oaxbs2mdwxgm2mYJc30pGHDhHLvRXj0xkuKEG3MkNx/O/B4sTPSpoESSKFtkOxQWLlKWhKf2i4QcY1/CTe+C8XkbluO0l+UGAr6gm+KoUdeD4eykKGFD0N5QWjynYJCxH+QHPQmLQDHqgshBr6qVFMXW4MGjVDj5I/X7cnAttawun2A3IkcZ7DOd1INNNAlAQK3Nzsc+kixVf/u930VOP67GvJjob7QCJZ8drsJtwFITfMt7aM+ahH4KUyNtW3rdB9T5pTi5t2IO9mIusIE7XYaTK5ONAa2Lr4XnHf8Pbe4CVAgMBAAECggEAf55oK0D49oarAvOuMJh/+Rad0rcPelLdlpuuongQBlnDHLv7tiK5gB/ldo3u7HCIDyltsjvnmla9zeetZCteLgEcE3k+fYW2lmqg+QKRgKw6nRaElWESKSSxdFK4whzbOddf2/DWGjHVI3jE9VyfavpQwGbc5HE1tpJ7IkIFf0J20uou20lib++CLf7TSsxcbd5tJLd1WgfpU3+GjTVEh7tCr2B5Q9yyL9ECQqafkbBbhMl/+3j0z20W40lrzrSUMKjOchuVoRQ0IAGuE4Ou9e20fliKK7LvV/c8Ticw89MAxt5TB0Y/Fi1exm6O5X0JOUQPrxg3Db3wBBlLKNkFRQKBgQDxyGpHuZzWZPZDtE/B0GP/pPjvbUJgSBisbb+tcWPr/giauJbcmO9y0AxpXkwx/8VY72IR4YnTsDtjPX9XcnMZjTM572nzPvtq8oIi6DqP5LqGQo7/U3zlsh+Jp33qdKY1puFIcS1/TICf0TnI+GWlBsgMX45CP79tqovjOBNJvwKBgQDc7iptEkHz15Oz89uKKmFJlWEpFBM07ItCJBrZLh7IKJNq8nqOFz2CqrfOMz+SVTKF26TNKrARAr9cyN7YDGCu1gLE1cyB8L9/B9zaouGzdzLzjBwGna+fU2WFo4cMsEMX8q7ZPdlz/XB2Cj5JmvqNFw/ZWv3nSamEpmMYO+pCqwKBgBpN7ZIkFXYVwd0Xzt2NKHP1pMeXoXMMJPMNdZ8PCQnxt0nt7yvMz7A0BkWoZq3B39yPHqJHYVFQiQWA+UuwPel3vSz+aQ53ua6m95WIomZpQgm9UAVjNeFfgaLeQAqz6ilIIJZbCdIhppS8lIbSz2wm0rjV5Io8mTz7IwDzZtXNAoGBANJYW8J/GJYOEU3LBqI0mW4SsHAI8gR4lloBwCI4/Au8Picb+D1iuSi4W8oSFxu+zByQNAc29m0rvYCcqzbuCftMPVSk7lJlIh3TIZ50aAmTmsoxAtn1tikuoMEtIb6d7zNU1s51SZ1aloF8XTN9P8GnTGq4bHeSNbjbJgwDt5WDAoGARN01oT+tVJwRAxuID4pd4/LsSW7vqYfKm8Veywzar9NK6rEgBkZ8hCmdMHgvPlb868ecIB7a5Y/bO1hif0obByal5HK1DA/avb6oD2XrcRT3ESRKWT2mSvpN9ZG/2tRuu8FjrLbWH66pPCoaZEWSIBQuCqNhAe4vEVM5CjdmJfg="
+  format: "JSON"
+  charset: "UTF-8"
+  aliPayPublicKey: "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi8EEXCeFDrEGc2otxLFFM6gu8yOijvq4oaKBtRgXzhmEd8bmMIJYbGLwegvFLJ2xh0zmvv3z2edXQu2atmMmzx2wZ+JHjKj57Tnb0mx2Q8iarJHKzmOmrsxDCUUZpSYKzdz9MYsb4CBcMLk+i7XFrHwwUnD+bpFCC+1iycDLqG3sqQcIGsYNxfgEv3scB8bY1+Ox4uk7v3c1TGXuEdn1WIo6McFgvylWnXuMnqgPh0pu4eXGDzq4ArTUpdhqS5hqQ+UnOnNnGc8tC5xY0pI88A/va3tZm5Al1spA0tpAzvXkVBN6x5d0eFUDqwDI7NAyQ1f3ZPSyd8znvbv/a9bjwQIDAQAB"
+  signTYpe: "RSA2"
+
+---
+server:
+  port: 80
+spring:
+  profiles: 80
+
+---
+server:
+  port: 81
+spring:
+  profiles: 81

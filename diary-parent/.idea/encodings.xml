@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/diary-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-database-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-database-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-member-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-member-manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-photo-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-photo-manager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-redis-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-redis-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/diary-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manager-diary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manager-diary/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-generator/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

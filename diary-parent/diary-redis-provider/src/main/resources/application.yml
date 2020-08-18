@@ -1,0 +1,13 @@
+server:
+  port: 5001
+spring:
+  application:
+    name: redis-provider
+  redis:
+    host: localhost
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    prefer-ip-address: true

@@ -1,0 +1,18 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: member-manager
+  # redis配置
+  redis:
+    host: localhost
+    jedis:
+      pool:
+        max-idle: 100
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    prefer-ip-address: true

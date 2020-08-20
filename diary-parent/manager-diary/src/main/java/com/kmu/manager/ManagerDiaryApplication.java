@@ -9,10 +9,6 @@ import org.springframework.context.annotation.Bean;
 @SpringBootApplication
 @MapperScan("com.kmu.manager.mapper")
 public class ManagerDiaryApplication {
-    @Bean
-    public PaginationInterceptor paginationInterceptor() {
-        return new PaginationInterceptor();
-    }
 
     public static void main(String[] args) {
         SpringApplication.run(ManagerDiaryApplication.class, args);

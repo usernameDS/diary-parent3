@@ -8,12 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="diary-database-provider" />
         <module name="diary-common" />
-        <module name="diary-redis-provider" />
+        <module name="diary-member-manager" />
         <module name="manager-diary" />
         <module name="diary-web" />
         <module name="diary-eureka" />
         <module name="diary-photo-manager" />
-        <module name="diary-member-manager" />
+        <module name="diary-redis-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

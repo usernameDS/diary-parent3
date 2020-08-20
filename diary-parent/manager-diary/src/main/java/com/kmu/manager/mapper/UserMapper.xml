@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.kmu.manager.mapper.UserMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.kmu.manager.entity.User">
+        <id column="u_id" property="uId" />
+
+        <result column="u_name" property="uName" />
+        <result column="u_pswd" property="uPswd" />
+        <result column="u_account" property="uAccount" />
+        <result column="u_phone" property="uPhone" />
+        <result column="u_email" property="uEmail" />
+        <result column="u_create_date" property="uCreateDate" />
+        <result column="u_head_pic" property="uHeadPic" />
+        <result column="u_signature" property="uSignature" />
+        <result column="u_gender" property="uGender" />
+        <result column="u_age" property="uAge" />
+    </resultMap>
+
+</mapper>
